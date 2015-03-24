@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Mar 24 11:27:11 CDT 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-014c-4c9b-f3c2-00000cd79898 
+on database directory C:\Users\m136278\workspace\GroovyWorkspace\groovy-derby\SHOPPING_CART with class loader sun.misc.Launcher$AppClassLoader@4aad3ba4 
+Loaded from file:/C:/Users/m136278/workspace/GroovyWorkspace/groovy-derby/lib/derby.jar
+java.vendor=Sun Microsystems Inc.
+java.runtime.version=1.6.0_39-b04
+user.dir=C:\Users\m136278\workspace\GroovyWorkspace\groovy-derby
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

@@ -6,7 +6,7 @@ import java.sql.ResultSet
 import java.sql.Statement
 import java.util.List;
 import com.lio.groovy.beans.Customer;
-import com.lio.groovy.test.DerbyDataLoader
+import com.lio.groovy.dataload.DerbyDataLoader
 
 public class CustomerDAOImpl extends AbstractDAO implements CustomerDAO{
 	
